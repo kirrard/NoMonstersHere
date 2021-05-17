@@ -1,0 +1,4489 @@
+fileFormatVersion: 2
+guid: ddb83e22a4ccdf44ba0edabf1377b289
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -692078636420456154
+    second: Street_0
+  - first:
+      213: -1479051408267179727
+    second: Street_1
+  - first:
+      213: -8130602074403603745
+    second: Street_2
+  - first:
+      213: 5207673271064580885
+    second: Street_3
+  - first:
+      213: 2768615412850113313
+    second: Street_4
+  - first:
+      213: -5130273709848911276
+    second: Street_5
+  - first:
+      213: -6284420178855490092
+    second: Street_6
+  - first:
+      213: -747911725046634463
+    second: Street_7
+  - first:
+      213: 8954936717929885997
+    second: Street_8
+  - first:
+      213: -2535507161294606566
+    second: Street_9
+  - first:
+      213: -6781951185895807915
+    second: Street_10
+  - first:
+      213: -1469343687075829691
+    second: Street_11
+  - first:
+      213: -8467255933247715154
+    second: Street_12
+  - first:
+      213: -3232102883361502676
+    second: Street_13
+  - first:
+      213: 4188234848031889320
+    second: Street_14
+  - first:
+      213: 5813361944732930542
+    second: Street_15
+  - first:
+      213: -4831631980153659891
+    second: Street_16
+  - first:
+      213: -8331141707781966219
+    second: Street_17
+  - first:
+      213: -4176064563439130252
+    second: Street_18
+  - first:
+      213: 6325292009072869146
+    second: Street_19
+  - first:
+      213: -2715750253900969252
+    second: Street_20
+  - first:
+      213: -2590091250545846213
+    second: Street_21
+  - first:
+      213: -3644246195713416402
+    second: Street_22
+  - first:
+      213: -1819844333813425277
+    second: Street_23
+  - first:
+      213: 5204146202766166538
+    second: Street_24
+  - first:
+      213: 3703177248489596271
+    second: Street_25
+  - first:
+      213: -8961878568318589171
+    second: Street_26
+  - first:
+      213: 2276217277734299266
+    second: Street_27
+  - first:
+      213: 4574836394195651395
+    second: Street_28
+  - first:
+      213: 9009834301897402322
+    second: Street_29
+  - first:
+      213: -1051335318606421200
+    second: Street_30
+  - first:
+      213: -425077878101688525
+    second: Street_31
+  - first:
+      213: 151249602166470442
+    second: Street_32
+  - first:
+      213: 298503014426373753
+    second: Street_33
+  - first:
+      213: -1881456521423745904
+    second: Street_34
+  - first:
+      213: 2112651090576983545
+    second: Street_35
+  - first:
+      213: -8085193618998334111
+    second: Street_36
+  - first:
+      213: 6536986190468971603
+    second: Street_37
+  - first:
+      213: 2716833024294742575
+    second: Street_38
+  - first:
+      213: -3960874774451415065
+    second: Street_39
+  - first:
+      213: -1525149801944704783
+    second: Street_40
+  - first:
+      213: 4596259613336800579
+    second: Street_41
+  - first:
+      213: 7148557647981265620
+    second: Street_42
+  - first:
+      213: -3273612310607771717
+    second: Street_43
+  - first:
+      213: 7540992914705123587
+    second: Street_44
+  - first:
+      213: 3959083339751696032
+    second: Street_45
+  - first:
+      213: -8449055603706864800
+    second: Street_46
+  - first:
+      213: -4414716768120887050
+    second: Street_47
+  - first:
+      213: 7364048094215358821
+    second: Street_48
+  - first:
+      213: 2897623577426281927
+    second: Street_49
+  - first:
+      213: -2689206307231935513
+    second: Street_50
+  - first:
+      213: 8606265385439442714
+    second: Street_51
+  - first:
+      213: -8605909436334709075
+    second: Street_52
+  - first:
+      213: 5623596677686548170
+    second: Street_53
+  - first:
+      213: 986650294901989186
+    second: Street_54
+  - first:
+      213: -8585038239550085944
+    second: Street_55
+  - first:
+      213: -8952585352440870258
+    second: Street_56
+  - first:
+      213: -2405367772471724034
+    second: Street_57
+  - first:
+      213: -1261718963645362259
+    second: Street_58
+  - first:
+      213: -4128804272870303718
+    second: Street_59
+  - first:
+      213: 7137180899341797420
+    second: Street_60
+  - first:
+      213: 513120197763019453
+    second: Street_61
+  - first:
+      213: 6000171200914443223
+    second: Street_62
+  - first:
+      213: -4328582271368869993
+    second: Street_63
+  - first:
+      213: 5125325446776431775
+    second: Street_64
+  - first:
+      213: -3799710483255182969
+    second: Street_65
+  - first:
+      213: 1684961900137435529
+    second: Street_66
+  - first:
+      213: -7851516398124485916
+    second: Street_67
+  - first:
+      213: -5241819317909117240
+    second: Street_68
+  - first:
+      213: -3425886727734377607
+    second: Street_69
+  - first:
+      213: -7714259911982838298
+    second: Street_70
+  - first:
+      213: 1089602782047357826
+    second: Street_71
+  - first:
+      213: -7765001572517017022
+    second: Street_72
+  - first:
+      213: -2199753249199489824
+    second: Street_73
+  - first:
+      213: -8651657540474342758
+    second: Street_74
+  - first:
+      213: -5076454079064136871
+    second: Street_75
+  - first:
+      213: -3895766605441767878
+    second: Street_76
+  - first:
+      213: -8324768441231069501
+    second: Street_77
+  - first:
+      213: -8457223143934442319
+    second: Street_78
+  - first:
+      213: 915569335354126195
+    second: Street_79
+  - first:
+      213: 6040816663386186363
+    second: Street_80
+  - first:
+      213: 8391995586731797587
+    second: Street_81
+  - first:
+      213: 5247858618876193005
+    second: Street_82
+  - first:
+      213: -7834068904412137733
+    second: Street_83
+  - first:
+      213: 8341538775548037993
+    second: Street_84
+  - first:
+      213: 1141827156914782778
+    second: Street_85
+  - first:
+      213: 6024012555561841164
+    second: Street_86
+  - first:
+      213: 6572269418782857658
+    second: Street_87
+  - first:
+      213: -3037419598503473007
+    second: Street_88
+  - first:
+      213: -9013616807669129888
+    second: Street_89
+  - first:
+      213: 2492637785377008977
+    second: Street_90
+  - first:
+      213: -9016379415726228046
+    second: Street_91
+  - first:
+      213: 6483319518382775253
+    second: Street_92
+  - first:
+      213: -79786910040591735
+    second: Street_93
+  - first:
+      213: -5648808483310293414
+    second: Street_94
+  - first:
+      213: -9069495981341089670
+    second: Street_95
+  - first:
+      213: -8889404459609000337
+    second: Street_96
+  - first:
+      213: 1903969186404742383
+    second: Street_97
+  - first:
+      213: 126016739561010121
+    second: Street_98
+  - first:
+      213: 4960870070533037698
+    second: Street_99
+  - first:
+      213: -1643135195376413723
+    second: Street_100
+  - first:
+      213: 4424166520409439848
+    second: Street_101
+  - first:
+      213: 2176425502630336476
+    second: Street_102
+  - first:
+      213: -1325313882373107227
+    second: Street_103
+  - first:
+      213: -6648847709587933375
+    second: Street_104
+  - first:
+      213: 8625650254965008220
+    second: Street_105
+  - first:
+      213: -7863392099361700090
+    second: Street_106
+  - first:
+      213: 3892343305399665473
+    second: Street_107
+  - first:
+      213: -2820949291394054290
+    second: Street_108
+  - first:
+      213: 7743777099555752054
+    second: Street_109
+  - first:
+      213: 659163791020621160
+    second: Street_110
+  - first:
+      213: 5058624766281254144
+    second: Street_111
+  - first:
+      213: 4800482202642529851
+    second: Street_112
+  - first:
+      213: -4303089965050919887
+    second: Street_113
+  - first:
+      213: 4924352632161184020
+    second: Street_114
+  - first:
+      213: 1786555679267520372
+    second: Street_115
+  - first:
+      213: -5711936522661088041
+    second: Street_116
+  - first:
+      213: -7723396356346640760
+    second: Street_117
+  - first:
+      213: 5611836572212005477
+    second: Street_118
+  - first:
+      213: -1077874321481637557
+    second: Street_119
+  - first:
+      213: 5475820677969071526
+    second: Street_120
+  - first:
+      213: -30696320853719891
+    second: Street_121
+  - first:
+      213: -7686457048416969870
+    second: Street_122
+  - first:
+      213: -8003469923742983743
+    second: Street_123
+  - first:
+      213: 3206431941921224802
+    second: Street_124
+  - first:
+      213: -1786518387652629781
+    second: Street_125
+  - first:
+      213: -1830612305010635468
+    second: Street_126
+  - first:
+      213: -8384108754720504041
+    second: Street_127
+  - first:
+      213: -7196250827050918291
+    second: Street_128
+  - first:
+      213: -7337555145644067787
+    second: Street_129
+  - first:
+      213: 6500251640209010181
+    second: Street_130
+  - first:
+      213: 5661313146674275378
+    second: Street_131
+  - first:
+      213: -632682495923920608
+    second: Street_132
+  - first:
+      213: 3893740093296068548
+    second: Street_133
+  - first:
+      213: -8527440500100313702
+    second: Street_134
+  - first:
+      213: 6722240288706791595
+    second: Street_135
+  - first:
+      213: -3705329080203885056
+    second: Street_136
+  - first:
+      213: -203160496836524347
+    second: Street_137
+  - first:
+      213: 5958630467484229656
+    second: Street_138
+  - first:
+      213: -2672884108510645305
+    second: Street_139
+  - first:
+      213: 4785973113386591645
+    second: Street_140
+  - first:
+      213: 3897761729955092500
+    second: Street_141
+  - first:
+      213: 7808926027930190011
+    second: Street_142
+  - first:
+      213: -4331044682982163784
+    second: Street_143
+  - first:
+      213: -8014742975635049403
+    second: Street_144
+  - first:
+      213: -2704487637278573570
+    second: Street_145
+  - first:
+      213: 3963580068778998865
+    second: Street_146
+  - first:
+      213: -891070756890800345
+    second: Street_147
+  - first:
+      213: -3986081267059063085
+    second: Street_148
+  - first:
+      213: -6632485898483543171
+    second: Street_149
+  - first:
+      213: -6158261155272736293
+    second: Street_150
+  - first:
+      213: -5612194598694356922
+    second: Street_151
+  - first:
+      213: -5098099018674374497
+    second: Street_152
+  - first:
+      213: 8013304469729488616
+    second: Street_153
+  - first:
+      213: 3323999243543844910
+    second: Street_154
+  - first:
+      213: -6821873230975641703
+    second: Street_155
+  - first:
+      213: 5284210962595002766
+    second: Street_156
+  - first:
+      213: -7455276748702271804
+    second: Street_157
+  - first:
+      213: 181675794071472065
+    second: Street_158
+  - first:
+      213: 9156986019347661783
+    second: Street_159
+  - first:
+      213: 555214844953635649
+    second: Street_160
+  - first:
+      213: -2984372489378572479
+    second: Street_161
+  - first:
+      213: -1882391950813669731
+    second: Street_162
+  - first:
+      213: -5265225558227694072
+    second: Street_163
+  - first:
+      213: -8545530761657721977
+    second: Street_164
+  - first:
+      213: -192407178962880375
+    second: Street_165
+  - first:
+      213: 8262359093173070921
+    second: Street_166
+  - first:
+      213: 4717323049849256175
+    second: Street_167
+  - first:
+      213: 349225485861207661
+    second: Street_168
+  - first:
+      213: 6269929749926740460
+    second: Street_169
+  - first:
+      213: 148532350478761688
+    second: Street_170
+  - first:
+      213: 7968338072493879972
+    second: Street_171
+  - first:
+      213: 608727703660015629
+    second: Street_172
+  - first:
+      213: 9200709499891724719
+    second: Street_173
+  - first:
+      213: 2677906222767560697
+    second: Street_174
+  - first:
+      213: 1457545891194547894
+    second: Street_175
+  - first:
+      213: 46566441646236805
+    second: Street_176
+  - first:
+      213: -8223503823337492778
+    second: Street_177
+  - first:
+      213: -6381021012890106554
+    second: Street_178
+  - first:
+      213: -2340006710321461560
+    second: Street_179
+  - first:
+      213: 2394023812385910260
+    second: Street_180
+  - first:
+      213: -4294260935727016475
+    second: Street_181
+  - first:
+      213: 958596699675754530
+    second: Street_182
+  - first:
+      213: -2529318986999122623
+    second: Street_183
+  - first:
+      213: 2975677705489664024
+    second: Street_184
+  - first:
+      213: 4063792297766712310
+    second: Street_185
+  - first:
+      213: -5161488918787674776
+    second: Street_186
+  - first:
+      213: 7266380245250066484
+    second: Street_187
+  - first:
+      213: 227293784969137509
+    second: Street_188
+  - first:
+      213: 3537671218552373962
+    second: Street_189
+  - first:
+      213: -8461290892784224112
+    second: Street_190
+  - first:
+      213: -4969635901928220935
+    second: Street_191
+  - first:
+      213: -7323633384711468251
+    second: Street_192
+  - first:
+      213: -3536282151973420859
+    second: Street_193
+  - first:
+      213: 6633641285282653525
+    second: Street_194
+  - first:
+      213: 7351868750570992709
+    second: Street_195
+  - first:
+      213: -5257490737268466643
+    second: Street_196
+  - first:
+      213: -7049858667722559145
+    second: Street_0
+  - first:
+      213: -2072225136693188014
+    second: Street_1
+  - first:
+      213: 8980291676131486959
+    second: Street_2
+  - first:
+      213: 3149225370738751923
+    second: Street_3
+  - first:
+      213: -1619304593361637963
+    second: Street_4
+  - first:
+      213: -4754713610068328715
+    second: Street_5
+  - first:
+      213: -4593982735791270789
+    second: Street_6
+  - first:
+      213: 8311226294914046018
+    second: Street_7
+  - first:
+      213: -4878846799797592824
+    second: Street_8
+  - first:
+      213: -5962306764232699702
+    second: Street_9
+  - first:
+      213: -785783993397039144
+    second: Street_10
+  - first:
+      213: -387836198487676394
+    second: Street_11
+  - first:
+      213: -6348190219325131647
+    second: Street_12
+  - first:
+      213: 9206444582724673272
+    second: Street_13
+  - first:
+      213: 4552463779852571873
+    second: Street_14
+  - first:
+      213: 2189185789088755570
+    second: Street_15
+  - first:
+      213: 3028923069529206955
+    second: Street_16
+  - first:
+      213: 3916793045759479650
+    second: Street_17
+  - first:
+      213: -4307495448582002955
+    second: Street_18
+  - first:
+      213: 1346842677765502866
+    second: Street_19
+  - first:
+      213: 5326233813753085151
+    second: Street_20
+  - first:
+      213: 5341135105216928276
+    second: Street_21
+  - first:
+      213: 2466869625123958680
+    second: Street_22
+  - first:
+      213: -1131836759322730165
+    second: Street_23
+  - first:
+      213: 8409890952509552325
+    second: Street_24
+  - first:
+      213: -4146612488475320842
+    second: Street_25
+  - first:
+      213: -1212177367338859947
+    second: Street_26
+  - first:
+      213: 699051741768338640
+    second: Street_27
+  - first:
+      213: 2794084120977990919
+    second: Street_28
+  - first:
+      213: -3314757485484207037
+    second: Street_29
+  - first:
+      213: -3981116313219493235
+    second: Street_30
+  - first:
+      213: 2461712257508647193
+    second: Street_31
+  - first:
+      213: 5046024493533155322
+    second: Street_32
+  - first:
+      213: -3063608864672739849
+    second: Street_33
+  - first:
+      213: -1666524402251390234
+    second: Street_34
+  - first:
+      213: 4210684816513296063
+    second: Street_35
+  - first:
+      213: 82798646880120072
+    second: Street_36
+  - first:
+      213: 4330646278200426232
+    second: Street_37
+  - first:
+      213: 106324831258599787
+    second: Street_38
+  - first:
+      213: 1383105226327803321
+    second: Street_39
+  - first:
+      213: -6279295560361491279
+    second: Street_40
+  - first:
+      213: -8448499158848862641
+    second: Street_41
+  - first:
+      213: -8770863359328427612
+    second: Street_42
+  - first:
+      213: -7825200044900204434
+    second: Street_43
+  - first:
+      213: -7981501335691354670
+    second: Street_44
+  - first:
+      213: 7747552629815607154
+    second: Street_45
+  - first:
+      213: 4788993046614380444
+    second: Street_46
+  - first:
+      213: 1709958746716232405
+    second: Street_47
+  - first:
+      213: 8929164292651936019
+    second: Street_48
+  - first:
+      213: 6927515358986574261
+    second: Street_49
+  - first:
+      213: -4891041953126167166
+    second: Street_50
+  - first:
+      213: 4597057128130488793
+    second: Street_51
+  - first:
+      213: 7275202039094791321
+    second: Street_52
+  - first:
+      213: -1246907288287510024
+    second: Street_53
+  - first:
+      213: 8203288441277054382
+    second: Street_54
+  - first:
+      213: -5911658538797610200
+    second: Street_55
+  - first:
+      213: -5523656613371389102
+    second: Street_56
+  - first:
+      213: -399573711460595787
+    second: Street_57
+  - first:
+      213: 8710148623731770933
+    second: Street_58
+  - first:
+      213: 4251339526069836566
+    second: Street_59
+  - first:
+      213: -6842819042027076541
+    second: Street_60
+  - first:
+      213: 4182010143270700680
+    second: Street_61
+  - first:
+      213: 6680053617800302779
+    second: Street_62
+  - first:
+      213: 7981681844324792686
+    second: Street_63
+  - first:
+      213: -5965627305820433241
+    second: Street_64
+  - first:
+      213: 8864306174214449489
+    second: Street_65
+  - first:
+      213: 2582368524981765770
+    second: Street_66
+  - first:
+      213: 7884685505762333362
+    second: Street_67
+  - first:
+      213: 3707161300237168642
+    second: Street_68
+  - first:
+      213: -6655554883490833927
+    second: Street_69
+  - first:
+      213: 5959058494994018221
+    second: Street_70
+  - first:
+      213: -2825468884499860066
+    second: Street_71
+  - first:
+      213: 474130937250569344
+    second: Street_72
+  - first:
+      213: -214659744299970701
+    second: Street_73
+  - first:
+      213: -8196260785349120433
+    second: Street_74
+  - first:
+      213: 561645481379971528
+    second: Street_75
+  - first:
+      213: -1387502158529692598
+    second: Street_76
+  - first:
+      213: 2807228708347794456
+    second: Street_77
+  - first:
+      213: 1086643757125346477
+    second: Street_78
+  - first:
+      213: -1826693639568643896
+    second: Street_79
+  - first:
+      213: 3892129187008842761
+    second: Street_80
+  - first:
+      213: -3046248346205030259
+    second: Street_81
+  - first:
+      213: -8986053522866949745
+    second: Street_82
+  - first:
+      213: 7738280943623046534
+    second: Street_83
+  - first:
+      213: -3956711583361539673
+    second: Street_84
+  - first:
+      213: -1843446960220056654
+    second: Street_85
+  - first:
+      213: -849565510887646636
+    second: Street_86
+  - first:
+      213: 3922645342124723845
+    second: Street_87
+  - first:
+      213: -4484260445371765737
+    second: Street_88
+  - first:
+      213: 1207241432331298531
+    second: Street_89
+  - first:
+      213: -4790654919446332651
+    second: Street_90
+  - first:
+      213: -7311714033423969587
+    second: Street_91
+  - first:
+      213: -4766758023396250971
+    second: Street_92
+  - first:
+      213: -82978705546420631
+    second: Street_93
+  - first:
+      213: 5559950713831166771
+    second: Street_94
+  - first:
+      213: -5061077869623571691
+    second: Street_95
+  - first:
+      213: 6563015564207913183
+    second: Street_96
+  - first:
+      213: 851013168691277404
+    second: Street_97
+  - first:
+      213: 3061727591467268118
+    second: Street_98
+  - first:
+      213: 4811097833437834055
+    second: Street_99
+  - first:
+      213: 2928456569467914367
+    second: Street_100
+  - first:
+      213: 224675091993744555
+    second: Street_101
+  - first:
+      213: 7079939297951712761
+    second: Street_102
+  - first:
+      213: -6130371333293160592
+    second: Street_103
+  - first:
+      213: 259562575139928020
+    second: Street_104
+  - first:
+      213: 7166491803062064845
+    second: Street_105
+  - first:
+      213: -7170524766243813438
+    second: Street_106
+  - first:
+      213: 6850294652034369925
+    second: Street_107
+  - first:
+      213: -369031159227171368
+    second: Street_108
+  - first:
+      213: -9052044206036354045
+    second: Street_109
+  - first:
+      213: -4491073373422468613
+    second: Street_110
+  - first:
+      213: 5141935735661797012
+    second: Street_111
+  - first:
+      213: -3302504037318715001
+    second: Street_112
+  - first:
+      213: 6209881571168140742
+    second: Street_113
+  - first:
+      213: -2121783263251655244
+    second: Street_114
+  - first:
+      213: -2769963859869857967
+    second: Street_115
+  - first:
+      213: -1926245965022200111
+    second: Street_116
+  - first:
+      213: -145461110098911868
+    second: Street_117
+  - first:
+      213: -274855943247265025
+    second: Street_118
+  - first:
+      213: -8600460948358850153
+    second: Street_119
+  - first:
+      213: -3058407449418964698
+    second: Street_120
+  - first:
+      213: -608668914202568971
+    second: Street_121
+  - first:
+      213: -749090349455049741
+    second: Street_122
+  - first:
+      213: 6248726667918057274
+    second: Street_123
+  - first:
+      213: -7578218449288026219
+    second: Street_124
+  - first:
+      213: 7943335611350078257
+    second: Street_125
+  - first:
+      213: -6618173748514483159
+    second: Street_126
+  - first:
+      213: 9128301496473641733
+    second: Street_127
+  - first:
+      213: -1783768007123322600
+    second: Street_128
+  - first:
+      213: -8462368760087990517
+    second: Street_129
+  - first:
+      213: -6453129500960512520
+    second: Street_130
+  - first:
+      213: -5652297177837958004
+    second: Street_131
+  - first:
+      213: 7032757031314398100
+    second: Street_132
+  - first:
+      213: 5545704331262635975
+    second: Street_133
+  - first:
+      213: -3102357040718021424
+    second: Street_134
+  - first:
+      213: -892410213230307074
+    second: Street_135
+  - first:
+      213: -8487017093902816268
+    second: Street_136
+  - first:
+      213: -6509577670743107664
+    second: Street_137
+  - first:
+      213: 2410894025221729049
+    second: Street_138
+  - first:
+      213: -6570926354912854231
+    second: Street_139
+  - first:
+      213: -1489412997100444729
+    second: Street_140
+  - first:
+      213: 8913371105603547479
+    second: Street_141
+  - first:
+      213: 1997393549563733149
+    second: Street_142
+  - first:
+      213: -7610002735803758013
+    second: Street_143
+  - first:
+      213: -1898395984674755708
+    second: Street_144
+  - first:
+      213: -467554226780922476
+    second: Street_145
+  - first:
+      213: 649917628969287686
+    second: Street_146
+  - first:
+      213: -747608173819308668
+    second: Street_147
+  - first:
+      213: 491800425847916499
+    second: Street_148
+  - first:
+      213: 2663991777751497803
+    second: Street_149
+  - first:
+      213: 7781829643821540040
+    second: Street_150
+  - first:
+      213: 7750610589223240069
+    second: Street_151
+  - first:
+      213: -6805250175475781620
+    second: Street_152
+  - first:
+      213: 6178648227530944858
+    second: Street_153
+  - first:
+      213: 8312530681969735778
+    second: Street_154
+  - first:
+      213: 6751199135777592590
+    second: Street_155
+  - first:
+      213: -5587603335539038073
+    second: Street_156
+  - first:
+      213: 975467698617346564
+    second: Street_157
+  - first:
+      213: -4514313717065111622
+    second: Street_158
+  - first:
+      213: -7234344533266011078
+    second: Street_159
+  - first:
+      213: -6833537640333918112
+    second: Street_160
+  - first:
+      213: 9124140805414562766
+    second: Street_161
+  - first:
+      213: 5373021291939625587
+    second: Street_162
+  - first:
+      213: -3048907875049960438
+    second: Street_163
+  - first:
+      213: -3603602568582005099
+    second: Street_164
+  - first:
+      213: 6118362752734108886
+    second: Street_165
+  - first:
+      213: 6696447703874576379
+    second: Street_166
+  - first:
+      213: 3852769244611297291
+    second: Street_167
+  - first:
+      213: 3928773022976761769
+    second: Street_168
+  - first:
+      213: 5186733399008667788
+    second: Street_169
+  - first:
+      213: -6340669399551802103
+    second: Street_170
+  - first:
+      213: 2613152508948378174
+    second: Street_171
+  - first:
+      213: 1597441053495494960
+    second: Street_172
+  - first:
+      213: -8035086027909187376
+    second: Street_173
+  - first:
+      213: -9156326639273471599
+    second: Street_174
+  - first:
+      213: -4460146468921770626
+    second: Street_175
+  - first:
+      213: 1059711628404510015
+    second: Street_176
+  - first:
+      213: -3207958060121919505
+    second: Street_177
+  - first:
+      213: -5746674439429528448
+    second: Street_178
+  - first:
+      213: 3487746554035362865
+    second: Street_179
+  - first:
+      213: 2772988735529330084
+    second: Street_180
+  - first:
+      213: 1281731786606128591
+    second: Street_181
+  - first:
+      213: 8042519446726056618
+    second: Street_182
+  - first:
+      213: -8450560111325145625
+    second: Street_183
+  - first:
+      213: -2541710346237349980
+    second: Street_184
+  - first:
+      213: 6598074240027633132
+    second: Street_185
+  - first:
+      213: 6841191290358220167
+    second: Street_186
+  - first:
+      213: -3808779427655840817
+    second: Street_187
+  - first:
+      213: -2672644805438771868
+    second: Street_188
+  - first:
+      213: 7268472525678782462
+    second: Street_189
+  - first:
+      213: 994316483137366351
+    second: Street_190
+  - first:
+      213: -8206956319397120403
+    second: Street_191
+  - first:
+      213: 740444189440502995
+    second: Street_192
+  - first:
+      213: -1703285848689294737
+    second: Street_193
+  - first:
+      213: -8708515211611011274
+    second: Street_194
+  - first:
+      213: 1877322191357288400
+    second: Street_195
+  - first:
+      213: -7124929768234607335
+    second: Street_196
+  - first:
+      213: -3920182193546137904
+    second: Street_197
+  - first:
+      213: -2781296202436323158
+    second: Street_198
+  - first:
+      213: -5610584041708572438
+    second: Street_199
+  - first:
+      213: -1481824197021415155
+    second: Street_200
+  - first:
+      213: 7712765268923181996
+    second: Street_201
+  - first:
+      213: 8958976116746448116
+    second: Street_202
+  - first:
+      213: 7121909236698274396
+    second: Street_203
+  - first:
+      213: -4022293926582547850
+    second: Street_204
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Street_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75130b9b4eed92e90800000000000000
+      internalID: -7049858667722559145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a64c0a73afd33e0800000000000000
+      internalID: -2072225136693188014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fece63723b760ac70800000000000000
+      internalID: 8980291676131486959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_3
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b9f7841acb44bb20800000000000000
+      internalID: 3149225370738751923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd65814d031789e0800000000000000
+      internalID: -1619304593361637963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_5
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe7927c92dd30eb0800000000000000
+      internalID: -4754713610068328715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_6
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7452e0ba05ee30c0800000000000000
+      internalID: -4593982735791270789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_7
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 248dc3cc748675370800000000000000
+      internalID: 8311226294914046018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_8
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d53805faada4cb0800000000000000
+      internalID: -4878846799797592824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_9
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac0500c6691a14da0800000000000000
+      internalID: -5962306764232699702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_10
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dfa16b0f955815f0800000000000000
+      internalID: -785783993397039144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_11
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61aaa1648012e9af0800000000000000
+      internalID: -387836198487676394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_12
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 184348231a2b6e7a0800000000000000
+      internalID: -6348190219325131647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_13
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe9f95f19cd3cf70800000000000000
+      internalID: 9206444582724673272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_14
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e4d1f210b99d2f30800000000000000
+      internalID: 4552463779852571873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_15
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27fe7f950ec816e10800000000000000
+      internalID: 2189185789088755570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_16
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba0364bdb75e80a20800000000000000
+      internalID: 3028923069529206955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_17
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26fc637e58e3b5630800000000000000
+      internalID: 3916793045759479650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_18
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f668ab26b3b834c0800000000000000
+      internalID: -4307495448582002955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_19
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2977c809742f0b210800000000000000
+      internalID: 1346842677765502866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_26
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 552cff65b1b7d2fe0800000000000000
+      internalID: -1212177367338859947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_27
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc48bbfad783b900800000000000000
+      internalID: 699051741768338640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_28
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 705e37f44b496c620800000000000000
+      internalID: 2794084120977990919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_29
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 344952911ad9ff1d0800000000000000
+      internalID: -3314757485484207037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_30
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d821a055ecb30c8c0800000000000000
+      internalID: -3981116313219493235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_31
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91127086142c92220800000000000000
+      internalID: 2461712257508647193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_32
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: affc6f8ba84170640800000000000000
+      internalID: 5046024493533155322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_33
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd817228ffdb75d0800000000000000
+      internalID: -3063608864672739849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_34
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e22942c2e05fd8e0800000000000000
+      internalID: -1666524402251390234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6e76d088b5f6a30800000000000000
+      internalID: 4210684816513296063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_36
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d2c2f3ee8262100800000000000000
+      internalID: 82798646880120072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_37
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fef00468db891c30800000000000000
+      internalID: 4330646278200426232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_38
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b61e8f5eeddb97100800000000000000
+      internalID: 106324831258599787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_39
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b5414610e6c13310800000000000000
+      internalID: 1383105226327803321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_40
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b447fcf4f57bd8a0800000000000000
+      internalID: -6279295560361491279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_49
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b91574f38a732060800000000000000
+      internalID: 6927515358986574261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_50
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28dc16ae1478f1cb0800000000000000
+      internalID: -4891041953126167166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_51
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d9256e0a170ccf30800000000000000
+      internalID: 4597057128130488793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_52
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c417975b5b6f460800000000000000
+      internalID: 7275202039094791321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_53
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f107cd7d6812bee0800000000000000
+      internalID: -1246907288287510024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_54
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eadf26cdf5fe7d170800000000000000
+      internalID: 8203288441277054382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_55
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b409951e195fda0800000000000000
+      internalID: -5911658538797610200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25bd2c263970853b0800000000000000
+      internalID: -5523656613371389102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_57
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b78ec293dd647af0800000000000000
+      internalID: -399573711460595787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_58
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536c362660aa0e870800000000000000
+      internalID: 8710148623731770933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_59
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b58fe36cacffa30800000000000000
+      internalID: 4251339526069836566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_60
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34482b9065c6901a0800000000000000
+      internalID: -6842819042027076541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_61
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8860bbc611c790a30800000000000000
+      internalID: 4182010143270700680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_62
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb0dc897f5154bc50800000000000000
+      internalID: 6680053617800302779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_63
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69f9214951a4ce60800000000000000
+      internalID: 7981681844324792686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_64
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a4d3369295d53da0800000000000000
+      internalID: -5965627305820433241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_65
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 159aa561087540b70800000000000000
+      internalID: 8864306174214449489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_66
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8600b2dd7a66d320800000000000000
+      internalID: 2582368524981765770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_67
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b292a051b70c6d60800000000000000
+      internalID: 7884685505762333362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_68
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20036b9af8b727330800000000000000
+      internalID: 3707161300237168642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_69
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f9996a9818b2a3a0800000000000000
+      internalID: -6655554883490833927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_74
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e2dcacd38014e80800000000000000
+      internalID: -8196260785349120433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c14b5fe69d5bc700800000000000000
+      internalID: 561645481379971528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_76
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4cffbb532a9ebce0800000000000000
+      internalID: -1387502158529692598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_77
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 814595c03a745f620800000000000000
+      internalID: 2807228708347794456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_78
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da42ad46db8841f00800000000000000
+      internalID: 1086643757125346477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_79
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c8ab0420d746a6e0800000000000000
+      internalID: -1826693639568643896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_80
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c879bcfde930630800000000000000
+      internalID: 3892129187008842761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_81
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d88f3d2d44d89b5d0800000000000000
+      internalID: -3046248346205030259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_82
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f813edc5eef1b4380800000000000000
+      internalID: -8986053522866949745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_83
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68583d0e485e36b60800000000000000
+      internalID: 7738280943623046534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_84
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a1ef0b47cfe619c0800000000000000
+      internalID: -3956711583361539673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_85
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b35fc5b1c2ca66e0800000000000000
+      internalID: -1843446960220056654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_86
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a5e164bacb534f0800000000000000
+      internalID: -849565510887646636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_87
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e4f25d729007630800000000000000
+      internalID: 3922645342124723845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_88
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ce74132e4b4c1c0800000000000000
+      internalID: -4484260445371765737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_89
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e6ad3cbfabf0c010800000000000000
+      internalID: 1207241432331298531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_90
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b7ce49bbc248db0800000000000000
+      internalID: -4790654919446332651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_91
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2968263d2978a90800000000000000
+      internalID: -7311714033423969587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_92
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa293545d219ddb0800000000000000
+      internalID: -4766758023396250971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_101
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba45a284ec43e1300800000000000000
+      internalID: 224675091993744555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_102
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f58db5c74ff04260800000000000000
+      internalID: 7079939297951712761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_103
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077c2d1a0cb8ceaa0800000000000000
+      internalID: -6130371333293160592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_104
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7733079c62a9300800000000000000
+      internalID: 259562575139928020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_105
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc6534f335e747360800000000000000
+      internalID: 7166491803062064845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_106
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c785e657bd2d7c90800000000000000
+      internalID: -7170524766243813438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_107
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 589444d01b2211f50800000000000000
+      internalID: 6850294652034369925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_108
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ddb63bad10f0eaf0800000000000000
+      internalID: -369031159227171368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_109
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30cf11021cda06280800000000000000
+      internalID: -9052044206036354045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_110
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf140f4cf808ca1c0800000000000000
+      internalID: -4491073373422468613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_111
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e1206fe43db5740800000000000000
+      internalID: 5141935735661797012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_112
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 789135253162b22d0800000000000000
+      internalID: -3302504037318715001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_113
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cdb8ba336eed2650800000000000000
+      internalID: 6209881571168140742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_114
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -5, y: 6}
+        - {x: -5, y: -6}
+        - {x: 5, y: -6}
+        - {x: 5, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5148f1d59ed82e0800000000000000
+      internalID: -2121783263251655244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_115
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15789cb9b8c1f89d0800000000000000
+      internalID: -2769963859869857967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_116
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de72d020899445e0800000000000000
+      internalID: -1926245965022200111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_117
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d9beb14e73bfdf0800000000000000
+      internalID: -145461110098911868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_118
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff28752d9f38f2cf0800000000000000
+      internalID: -274855943247265025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_119
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 799937ca55605a880800000000000000
+      internalID: -8600460948358850153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_120
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62169fef0aa5e85d0800000000000000
+      internalID: -3058407449418964698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_121
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6122fe8d29d87f0800000000000000
+      internalID: -608668914202568971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_122
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fbfe08cb42ba95f0800000000000000
+      internalID: -749090349455049741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_123
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f14cb1ccfe7b650800000000000000
+      internalID: 6248726667918057274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_131
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c8606f9a10f81b0800000000000000
+      internalID: -5652297177837958004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_132
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: -5}
+        - {x: 4, y: -5}
+        - {x: 4, y: 6}
+        - {x: -4, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b1023424f599160800000000000000
+      internalID: 7032757031314398100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_133
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf2146f4bc46fc40800000000000000
+      internalID: 5545704331262635975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_134
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dcf19d55b632f4d0800000000000000
+      internalID: -3102357040718021424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_135
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef81a76a3a58d93f0800000000000000
+      internalID: -892410213230307074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_136
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb21435bee083a80800000000000000
+      internalID: -8487017093902816268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_137
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b7da81099559a5a0800000000000000
+      internalID: -6509577670743107664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_138
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91be37ca757357120800000000000000
+      internalID: 2410894025221729049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_139
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92fba226b416fc4a0800000000000000
+      internalID: -6570926354912854231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_140
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c36af735ca845be0800000000000000
+      internalID: -1489412997100444729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_141
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 751fab4abc7a2bb70800000000000000
+      internalID: 8913371105603547479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_142
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d942766c9da28bb10800000000000000
+      internalID: 1997393549563733149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_143
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a8aa0d4d6d36690800000000000000
+      internalID: -7610002735803758013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_144
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48bee6af8ea87a5e0800000000000000
+      internalID: -1898395984674755708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_145
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d9d7f68e9e289f0800000000000000
+      internalID: -467554226780922476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_146
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6008affd3a8f40900800000000000000
+      internalID: 649917628969287686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_147
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4855250b356ff95f0800000000000000
+      internalID: -747608173819308668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_148
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d70d03b1e933d600800000000000000
+      internalID: 491800425847916499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_149
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c707d486668f420800000000000000
+      internalID: 2663991777751497803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_150
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c26696c4dc9efb60800000000000000
+      internalID: 7781829643821540040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_20
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda4e816887bf4ad0800000000000000
+      internalID: -2715750253900969252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_21
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b381e530bb52e0cd0800000000000000
+      internalID: -2590091250545846213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_22
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23ee6e94690d6dc0800000000000000
+      internalID: -3644246195713416402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_23
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b1b88683d9eb6e0800000000000000
+      internalID: -1819844333813425277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_24
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a431f0667d83840800000000000000
+      internalID: 5204146202766166538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_25
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65e7845614546330800000000000000
+      internalID: 3703177248489596271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_41
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d0a6c24c139cf30800000000000000
+      internalID: 4596259613336800579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_42
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d243506e47c43360800000000000000
+      internalID: 7148557647981265620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_43
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb7c0e5a2fac192d0800000000000000
+      internalID: -3273612310607771717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_44
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3098cbe1a1df6a860800000000000000
+      internalID: 7540992914705123587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_45
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a62116425d71f630800000000000000
+      internalID: 3959083339751696032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_46
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b578581bceeba80800000000000000
+      internalID: -8449055603706864800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_47
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f8a1345d76cbb2c0800000000000000
+      internalID: -4414716768120887050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_48
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569499ca9ba523660800000000000000
+      internalID: 7364048094215358821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_70
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed0a316b7171f490800000000000000
+      internalID: -7714259911982838298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_71
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28bc53215fb0f1f00800000000000000
+      internalID: 1089602782047357826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_72
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a06c5e53c2d3490800000000000000
+      internalID: -7765001572517017022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_73
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ecf3fb1318e871e0800000000000000
+      internalID: -2199753249199489824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_93
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982fd416a3a84eef0800000000000000
+      internalID: -79786910040591735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_94
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ea314fc966b91b0800000000000000
+      internalID: -5648808483310293414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_95
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a70e45c057da22280800000000000000
+      internalID: -9069495981341089670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_96
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f667b38fdbd72a480800000000000000
+      internalID: -8889404459609000337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_97
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe4b1fa23e14c6a10800000000000000
+      internalID: 1903969186404742383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c379459e83bfb100800000000000000
+      internalID: 126016739561010121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_99
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e1dfa9b0d88d440800000000000000
+      internalID: 4960870070533037698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_100
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e395a9de396239e0800000000000000
+      internalID: -1643135195376413723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_124
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2683eaedcd88f7c20800000000000000
+      internalID: 3206431941921224802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_125
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beae247edf20537e0800000000000000
+      internalID: -1786518387652629781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_126
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43dc16ebecb5896e0800000000000000
+      internalID: -1830612305010635468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_127
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71744ac2289a5ab80800000000000000
+      internalID: -8384108754720504041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_128
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ed40b0008c12c90800000000000000
+      internalID: -7196250827050918291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_129
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 534bb089874cb2a90800000000000000
+      internalID: -7337555145644067787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_130
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50eee4d4d68853a50800000000000000
+      internalID: 6500251640209010181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

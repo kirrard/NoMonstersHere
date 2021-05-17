@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Minji
+  m_Controller: {fileID: 9100000, guid: eeb2486a7ecda1946b447ab767a5bede, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: e7594a6c48f05d243a3adba8fac48f09, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: eea5124391b17734daefd804d8cc52b6, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 4ad5e1cf9cfe35e4498bc5eeb030526d, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 03e79b1c076a9f143811a3ad8e2c47fb, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: b33b13d2052ba0445962dd22b530447a, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 752ed526e4c23bd42ba7485a40a312be, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 97a39803552bcce47b4437d05250bbbb, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: cf17e26acb54ec84a8c9f6dfca52d43c, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: b0ad45440c5fa4f4d96f27bf26628b10, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 318c0acb65672fb4c9685e13c35bb81f, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 51a08f1ad8d663b4eb54d4564c8f44db, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: be1af756a5d8ae249842992e36df855c, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: bf4a49dccb71987458e6c1cd98dd5b32, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 3c2f1ba40a5c7cc4c8baa87209a83794, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: bb5742f2d3423464fbad528332e8554b, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 6165b665b8920ca4a848aaa26ceb881a, type: 2}

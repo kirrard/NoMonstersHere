@@ -1,0 +1,613 @@
+fileFormatVersion: 2
+guid: 8aed07815aebb0b40881f83e8926d119
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -766206868860473729
+    second: Street_Traffic_Light_0
+  - first:
+      213: 2154560683353216914
+    second: Street_Traffic_Light_1
+  - first:
+      213: -1836400727915371034
+    second: Street_Traffic_Light_2
+  - first:
+      213: 4340987760234671909
+    second: Street_Traffic_Light_3
+  - first:
+      213: 1145175575259414047
+    second: Street_Traffic_Light_4
+  - first:
+      213: -5268820399729553466
+    second: Street_Traffic_Light_5
+  - first:
+      213: -7952561355304708698
+    second: Street_Traffic_Light_6
+  - first:
+      213: -4803843485906507467
+    second: Street_Traffic_Light_7
+  - first:
+      213: -3952803124538127253
+    second: Street_Traffic_Light_0
+  - first:
+      213: -4931397917236321040
+    second: Street_Traffic_Light_1
+  - first:
+      213: 3653374582191599818
+    second: Street_Traffic_Light_2
+  - first:
+      213: 5288225990609625561
+    second: Street_Traffic_Light_3
+  - first:
+      213: 2735703892072997524
+    second: Street_Traffic_Light_4
+  - first:
+      213: 901257347078447431
+    second: Street_Traffic_Light_5
+  - first:
+      213: 7512114270111484712
+    second: Street_Traffic_Light_6
+  - first:
+      213: 8775772390189385885
+    second: Street_Traffic_Light_7
+  - first:
+      213: -6215168845996809590
+    second: Street_Traffic_Light_8
+  - first:
+      213: 4561565067945336989
+    second: Street_Traffic_Light_9
+  - first:
+      213: 1479111259627578412
+    second: Street_Traffic_Light_10
+  - first:
+      213: -8479407249923144847
+    second: Street_Traffic_Light_11
+  - first:
+      213: 5093056456973958454
+    second: Street_Traffic_Light_12
+  - first:
+      213: -110766088815202320
+    second: Street_Traffic_Light_13
+  - first:
+      213: -8524498617908360704
+    second: Street_Traffic_Light_14
+  - first:
+      213: 8196102393514155689
+    second: Street_Traffic_Light_15
+  - first:
+      213: -349063293687061267
+    second: Street_Traffic_Light_16
+  - first:
+      213: 5161977041865831088
+    second: Street_Traffic_Light_17
+  - first:
+      213: 4610476724262311346
+    second: Street_Traffic_Light_18
+  - first:
+      213: -8520944934930199707
+    second: Street_Traffic_Light_19
+  - first:
+      213: -6767829679073607899
+    second: Street_Traffic_Light_20
+  - first:
+      213: 6069490769590269419
+    second: Street_Traffic_Light_21
+  - first:
+      213: -6366345851891749780
+    second: Street_Traffic_Light_22
+  - first:
+      213: 5919038652467270588
+    second: Street_Traffic_Light_23
+  - first:
+      213: 4181479213363202959
+    second: Street_Traffic_Light_24
+  - first:
+      213: -3767523259666237041
+    second: Street_Traffic_Light_25
+  - first:
+      213: -7861878879160520860
+    second: Street_Traffic_Light_26
+  - first:
+      213: -2648485105914770120
+    second: Street_Traffic_Light_27
+  - first:
+      213: -8240665431427731017
+    second: Street_Traffic_Light_28
+  - first:
+      213: 7722839297067410237
+    second: Street_Traffic_Light_29
+  - first:
+      213: -5292746865106636526
+    second: Street_Traffic_Light_30
+  - first:
+      213: 7543228780588357834
+    second: Street_Traffic_Light_31
+  - first:
+      213: -6612178630237200462
+    second: Street_Traffic_Light_32
+  - first:
+      213: 4840575426731262885
+    second: Street_Traffic_Light_33
+  - first:
+      213: -5960661032201836820
+    second: Street_Traffic_Light_34
+  - first:
+      213: -220077087406187325
+    second: Street_Traffic_Light_35
+  - first:
+      213: -4800925830529035925
+    second: Street_Traffic_Light_36
+  - first:
+      213: -6948832776278487919
+    second: Street_Traffic_Light_37
+  - first:
+      213: -58841740900622450
+    second: Street_Traffic_Light_38
+  - first:
+      213: -3050333087149078789
+    second: Street_Traffic_Light_39
+  - first:
+      213: -6092862315491705757
+    second: Street_Traffic_Light_40
+  - first:
+      213: 3207447432142420488
+    second: Street_Traffic_Light_41
+  - first:
+      213: -5954546899699888556
+    second: Street_Traffic_Light_8
+  - first:
+      213: -828241964818866051
+    second: Street_Traffic_Light_9
+  - first:
+      213: 575780805268107199
+    second: Street_Traffic_Light_10
+  - first:
+      213: -3008882815121734306
+    second: Street_Traffic_Light_11
+  - first:
+      213: 7016922451942051170
+    second: Street_Traffic_Light_12
+  - first:
+      213: -4446910936287788142
+    second: Street_Traffic_Light_13
+  - first:
+      213: 5501803802174677705
+    second: Street_Traffic_Light_14
+  - first:
+      213: 7935437880911009099
+    second: Street_Traffic_Light_15
+  - first:
+      213: 8260046838434511067
+    second: Street_Traffic_Light_16
+  - first:
+      213: 5217017788245772268
+    second: Street_Traffic_Light_17
+  - first:
+      213: -1738965018104683774
+    second: Street_Traffic_Light_18
+  - first:
+      213: -182916110635792523
+    second: Street_Traffic_Light_19
+  - first:
+      213: 8766737994529373552
+    second: Street_Traffic_Light_20
+  - first:
+      213: 2024391765778057192
+    second: Street_Traffic_Light_21
+  - first:
+      213: 2971486273879372978
+    second: Street_Traffic_Light_22
+  - first:
+      213: 183837257462750312
+    second: Street_Traffic_Light_23
+  - first:
+      213: -7204881616841571154
+    second: Street_Traffic_Light_24
+  - first:
+      213: -7482958547458853611
+    second: Street_Traffic_Light_25
+  - first:
+      213: -3914377624133308210
+    second: Street_Traffic_Light_26
+  - first:
+      213: 6578480474770219205
+    second: Street_Traffic_Light_27
+  - first:
+      213: 8285681322598631834
+    second: Street_Traffic_Light_28
+  - first:
+      213: -2183609718207285282
+    second: Street_Traffic_Light_29
+  - first:
+      213: -5042755714768629965
+    second: Street_Traffic_Light_30
+  - first:
+      213: -540198375953383803
+    second: Street_Traffic_Light_31
+  - first:
+      213: 1534426785363753182
+    second: Street_Traffic_Light_32
+  - first:
+      213: -324191887312285126
+    second: Street_Traffic_Light_33
+  - first:
+      213: -7940342812681765932
+    second: Street_Traffic_Light_34
+  - first:
+      213: 3353442281582829143
+    second: Street_Traffic_Light_35
+  - first:
+      213: 8049636744811029405
+    second: Street_Traffic_Light_36
+  - first:
+      213: -7678569209340996899
+    second: Street_Traffic_Light_37
+  - first:
+      213: 7361765124261067936
+    second: Street_Traffic_Light_38
+  - first:
+      213: 1538970840985004834
+    second: Street_Traffic_Light_39
+  - first:
+      213: 7223309164082789463
+    second: Street_Traffic_Light_40
+  - first:
+      213: -4567953067594299052
+    second: Street_Traffic_Light_41
+  - first:
+      213: -2505009042082965568
+    second: Street_Traffic_Light_42
+  - first:
+      213: 8641082082194269785
+    second: Street_Traffic_Light_43
+  - first:
+      213: -1634008293605116352
+    second: Street_Traffic_Light_44
+  - first:
+      213: -2716419027523758495
+    second: Street_Traffic_Light_45
+  - first:
+      213: -6286064907085838467
+    second: Street_Traffic_Light_46
+  - first:
+      213: -3558410774388759720
+    second: Street_Traffic_Light_47
+  - first:
+      213: 2267578614423238734
+    second: Street_Traffic_Light_48
+  - first:
+      213: -2037715993056220580
+    second: Street_Traffic_Light_49
+  - first:
+      213: 5400044085427608101
+    second: Street_Traffic_Light_50
+  - first:
+      213: 6422033431223111610
+    second: Street_Traffic_Light_51
+  - first:
+      213: -2753886605180981909
+    second: Street_Traffic_Light_52
+  - first:
+      213: -8919405740935249531
+    second: Street_Traffic_Light_53
+  - first:
+      213: -4216374316492153500
+    second: Street_Traffic_Light_54
+  - first:
+      213: -6252524261702406641
+    second: Street_Traffic_Light_55
+  - first:
+      213: 1952817255393676882
+    second: Street_Traffic_Light_42
+  - first:
+      213: 9089547676931019627
+    second: Street_Traffic_Light_43
+  - first:
+      213: 982613258869618598
+    second: Street_Traffic_Light_44
+  - first:
+      213: -8678305843497415264
+    second: Street_Traffic_Light_45
+  - first:
+      213: -8291055342987211323
+    second: Street_Traffic_Light_46
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 128
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 128
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Street_Traffic_Light_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 48
+        height: 64
+      alignment: 9
+      pivot: {x: 0.16666667, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: -32}
+        - {x: -8, y: -16}
+        - {x: -24, y: -16}
+        - {x: -24, y: -32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6cc9d64082d429c0800000000000000
+      internalID: -3952803124538127253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_Traffic_Light_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 16
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 8, y: -16}
+        - {x: -8, y: -16}
+        - {x: -8, y: -32}
+        - {x: 8, y: -32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f42701d8b7209bb0800000000000000
+      internalID: -4931397917236321040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_Traffic_Light_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 16
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 8, y: 0}
+        - {x: -8, y: 0}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac0b8fa73d463b230800000000000000
+      internalID: 3653374582191599818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_Traffic_Light_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 32
+        height: 48
+      alignment: 9
+      pivot: {x: 0.75, y: 0.16666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 16, y: -8}
+        - {x: 1, y: -8}
+        - {x: 1, y: -24}
+        - {x: 16, y: -24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d1664e258d836940800000000000000
+      internalID: 5288225990609625561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_Traffic_Light_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 32
+        height: 48
+      alignment: 9
+      pivot: {x: 0.25, y: 0.16666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -1, y: -24}
+        - {x: -1, y: -8}
+        - {x: -16, y: -8}
+        - {x: -16, y: -24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4922aa9023c27f520800000000000000
+      internalID: 2735703892072997524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_Traffic_Light_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 8, y: -16}
+        - {x: -8, y: -16}
+        - {x: -8, y: -32}
+        - {x: 8, y: -32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74162d738c8e18c00800000000000000
+      internalID: 901257347078447431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_Traffic_Light_6
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 0}
+        - {x: -8, y: -15}
+        - {x: 8, y: -15}
+        - {x: 8, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b4326b024604860800000000000000
+      internalID: 7512114270111484712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_Traffic_Light_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 48
+        height: 64
+      alignment: 9
+      pivot: {x: 0.8333333, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 24, y: -32}
+        - {x: 24, y: -16}
+        - {x: 8, y: -16}
+        - {x: 8, y: -32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd842ce71140fc80800000000000000
+      internalID: -8291055342987211323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
