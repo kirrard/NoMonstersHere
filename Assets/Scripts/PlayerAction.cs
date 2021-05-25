@@ -5,13 +5,14 @@ using UnityEngine;
 public class PlayerAction : MonoBehaviour
 {
     private Animator playerAnimator;
-    private Rigidbody2D rigid;
+    public Rigidbody2D rigid;
 
     public List<SubPlayer> subPlayers;
 
     public float speed;
     public float runSpeed;
     public int distance;
+    public bool canMove;
 
     private float currentSpeed;
 
@@ -19,8 +20,6 @@ public class PlayerAction : MonoBehaviour
 
     private float dirX;
     private float dirY;
-
-    private Map currentMap;
 
     private bool isWalking;
     private bool isRunning;
@@ -37,6 +36,7 @@ public class PlayerAction : MonoBehaviour
             vectorQueue[i] = new Queue<Vector3>();
 
         currentSpeed = speed;
+        canMove = true;
     }
 
     private void Update()
@@ -60,7 +60,8 @@ public class PlayerAction : MonoBehaviour
 
     private void FixedUpdate()
     {
-        MovePlayer();
+        if(canMove)
+            MovePlayer();
 
         if (isWalking)
         {
@@ -119,85 +120,6 @@ public class PlayerAction : MonoBehaviour
         foreach (SubPlayer s in subPlayers)
             s.animator.SetBool("isWalking", isWalking);
     }
-
-    /*IEnumerator PosEnqueueCoroutine()
-    {
-        while (true)
-        {
-            yield return null;
-            WaitForSeconds waitForSeconds;
-            waitForSeconds = isRunning ? new WaitForSeconds(followingSpeed / 2) : new WaitForSeconds(followingSpeed);
-
-            Vector3 pos1 = transform.position;
-            yield return waitForSeconds;
-
-            Vector3 pos2 = transform.position;
-            yield return waitForSeconds;
-
-            Vector3 pos3 = transform.position;
-            yield return waitForSeconds;
-
-            Debug.Log(pos1);
-            Debug.Log(pos2);
-            Debug.Log(pos3);
-
-            vectorQueue.Enqueue(pos1);
-            vectorQueue.Enqueue(pos2);
-            vectorQueue.Enqueue(pos3);
-        }
-    }*/
-
-    /*
-    void MoveSubPlayer()
-    {
-        if (isWalking)
-        {
-            int index = 0;
-
-            foreach (SubPlayer s in subPlayers)
-            {
-                Vector3 position;
-
-                if (dirX == 0)
-                {
-                    position = new Vector3(0, -vector.y, transform.position.z);
-                    position.y += (vector.y > 0) ? -index : index;
-                    position.y *= 0.5f;
-                }
-                else if (dirY == 0)
-                {
-                    position = new Vector3(-vector.x, 0, transform.position.z);
-                    position.x += (vector.x > 0) ? -index : index;
-                    position.x *= 0.5f;
-                }
-                else
-                {
-                    position = new Vector3(-vector.x, -vector.y, transform.position.z);
-                    position.x += (vector.x > 0) ? -index : index;
-                    position.y += (vector.y > 0) ? -index : index;
-                    position.x *= 0.5f;
-                    position.y *= 0.5f;
-                }
-
-                index++;
-
-                s.transform.position = Vector3.Slerp(s.transform.position, transform.position + position, followingSpeed * Time.deltaTime);
-                //s.transform.position = transform.position + position;
-
-                if (vector == Vector2.zero)
-                {
-                    s.animator.SetBool("isWalking", false);
-                }
-                else
-                {
-                    s.animator.SetFloat("DirX", vector.x);
-                    s.animator.SetFloat("DirY", vector.y);
-                    s.animator.SetBool("isWalking", true);
-                }
-            }
-        }
-    }
-    */
 
     /*
     bool IsCollided()

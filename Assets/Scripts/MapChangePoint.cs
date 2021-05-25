@@ -1,18 +1,26 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-using UnityEngine.UI;
+﻿using UnityEngine;
 
 public class MapChangePoint : MonoBehaviour
 {
     public Transform targetPoint;
     public Map targetMap;
+    public bool isDoor;
 
-    private void OnCollisionEnter2D(Collision2D collision)
+    private void OnTriggerStay2D(Collider2D collision)
     {
-        if(collision.gameObject.CompareTag("Player"))
+        if (collision.gameObject.CompareTag("Player"))
         {
-            GameManager.instance.TransferMap(targetMap, collision, targetPoint);
+            if (isDoor)
+            {
+                if (Input.GetKeyDown(KeyCode.Z))
+                {
+                    MapController.instance.TransferMap(targetMap, collision, targetPoint);
+                }
+            }
+            else
+            {
+                MapController.instance.TransferMap(targetMap, collision, targetPoint);
+            }
         }
     }
 }

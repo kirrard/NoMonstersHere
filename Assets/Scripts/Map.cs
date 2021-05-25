@@ -11,7 +11,7 @@ public class Map : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("Player"))
         {
-            GameManager.instance.TransferMap(this);
+            MapController.instance.TransferMap(this);
         }
     }
 }
