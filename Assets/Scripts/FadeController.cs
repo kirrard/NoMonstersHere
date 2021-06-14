@@ -16,6 +16,7 @@ public class FadeController : MonoBehaviour
     }
     #endregion
 
+    public GameObject root;
     public SpriteRenderer blackImg;
     public SpriteRenderer whiteImg;
 
@@ -31,6 +32,7 @@ public class FadeController : MonoBehaviour
 
     public IEnumerator FadeInCoroutine(float fadeTime)
     {
+        root.SetActive(true);
         Color color = blackImg.color;
 
         while (color.a >= 0)
@@ -40,10 +42,13 @@ public class FadeController : MonoBehaviour
 
             yield return null;
         }
+
+        root.SetActive(false);
     }
 
     public IEnumerator FadeOutCoroutine(float fadeTime)
     {
+        root.SetActive(true);
         Color color = blackImg.color;
 
         while (color.a <= 1)
@@ -53,5 +58,7 @@ public class FadeController : MonoBehaviour
 
             yield return null;
         }
+
+        root.SetActive(false);
     }
 }

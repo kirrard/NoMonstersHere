@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DialogRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Dialog Id="0">
+		<Teller>지아</Teller>
+		<Content>??</Content>
+	</Dialog>
+	<Dialog Id="1">
+		<Teller>민지</Teller>
+		<Content>왜 그래?</Content>
+	</Dialog>
+	<Dialog Id="2">
+		<Teller>지아</Teller>
+		<Content>쓰레기통에 포장도 안 뜯은 햄버거가 들어있는데??</Content>
+	</Dialog>
+	<Dialog Id="3">
+		<Teller>민지</Teller>
+		<Content>헉, 누가 그런 짓을…</Content>
+	</Dialog>
+	<Dialog Id="4">
+		<Teller>지아</Teller>
+		<Content>이야, 완전 운수좋은데??? 비상식량으로 챙겨놔야겠다.</Content>
+	</Dialog>
+	<Dialog Id="5">
+		<Teller>민지</Teller>
+		<Content>그걸 그냥 먹게?</Content>
+	</Dialog>
+	<Dialog Id="6">
+		<Teller>지아</Teller>
+		<Content>뭐 어때.</Content>
+	</Dialog>
+	<Dialog Id="7">
+		<Teller>민지</Teller>
+		<Content>…</Content>
+	</Dialog>
+</DialogRoot>

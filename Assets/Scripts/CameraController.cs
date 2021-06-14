@@ -20,6 +20,10 @@ public class CameraController : MonoBehaviour
     private float halfWidth;
     private float halfHeight;
 
+    // transfrom 캐싱
+    private Transform camTargetTf;
+    private Transform camTf;
+
     private void Awake()
     {
         if (instance == null)
@@ -29,6 +33,8 @@ public class CameraController : MonoBehaviour
     void Start()
     {
         cam = GetComponent<Camera>();
+        camTf = GetComponent<Transform>();
+        camTargetTf = camTarget.GetComponent<Transform>();
         CamInit();
     }
 
@@ -44,15 +50,15 @@ public class CameraController : MonoBehaviour
     {
         if (camTarget != null)
         {
-            targetPos.Set(camTarget.transform.position.x, camTarget.transform.position.y, transform.position.z);
+            targetPos.Set(camTargetTf.position.x, camTargetTf.position.y, camTf.position.z);
 
             //transform.position = Vector3.Lerp(transform.position, targetPos, camSpeed * Time.deltaTime);
-            transform.position = targetPos;
+            camTf.position = targetPos;
 
-            float clampedX = Mathf.Clamp(transform.position.x, minBound.x + halfWidth, maxBound.x - halfWidth);
-            float clampedY = Mathf.Clamp(transform.position.y, minBound.y + halfHeight, maxBound.y - halfHeight);
+            float clampedX = Mathf.Clamp(camTf.position.x, minBound.x + halfWidth, maxBound.x - halfWidth);
+            float clampedY = Mathf.Clamp(camTf.position.y, minBound.y + halfHeight, maxBound.y - halfHeight);
 
-            transform.position = new Vector3(clampedX, clampedY, transform.position.z);
+            camTf.position = new Vector3(clampedX, clampedY, camTf.position.z);
         }
     }
 }

@@ -71,6 +71,7 @@ public class MapController : MonoBehaviour
 
     IEnumerator ShowMapNameCoroutine()
     {
+        mapNameUIText.gameObject.SetActive(true);
         mapNameUIText.text = gameManager.currentMap.mapName;
 
         Color color = mapNameUIText.color;
@@ -92,5 +93,6 @@ public class MapController : MonoBehaviour
 
             yield return null;
         }
+        mapNameUIText.gameObject.SetActive(false);
     }
 }

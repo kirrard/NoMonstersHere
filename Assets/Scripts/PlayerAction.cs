@@ -26,11 +26,14 @@ public class PlayerAction : MonoBehaviour
 
     private Queue<Vector3>[] vectorQueue;
 
+    private Transform playerTf;
+
     void Start()
     {
         playerAnimator = GetComponent<Animator>();
         rigid = GetComponent<Rigidbody2D>();
         vectorQueue = new Queue<Vector3>[subPlayers.Count];
+        playerTf = GetComponent<Transform>();
 
         for (int i = 0; i < subPlayers.Count; i++)
             vectorQueue[i] = new Queue<Vector3>();
@@ -60,7 +63,7 @@ public class PlayerAction : MonoBehaviour
 
     private void FixedUpdate()
     {
-        if(canMove)
+        if (canMove)
             MovePlayer();
 
         if (isWalking)
@@ -76,7 +79,7 @@ public class PlayerAction : MonoBehaviour
     {
         for (int i = 0; i < subPlayers.Count; i++)
         {
-            vectorQueue[i].Enqueue(transform.position);
+            vectorQueue[i].Enqueue(playerTf.position);
         }
     }
 
@@ -108,17 +111,17 @@ public class PlayerAction : MonoBehaviour
             playerAnimator.SetFloat("DirX", vector.x);
             playerAnimator.SetFloat("DirY", vector.y);
 
-            foreach (SubPlayer s in subPlayers)
+            for (int i = 0; i < subPlayers.Count; i++) //each (SubPlayer s in subPlayers)
             {
-                s.animator.SetFloat("DirX", vector.x);
-                s.animator.SetFloat("DirY", vector.y);
+                subPlayers[i].animator.SetFloat("DirX", vector.x);
+                subPlayers[i].animator.SetFloat("DirY", vector.y);
             }
         }
 
         playerAnimator.SetBool("isWalking", isWalking);
 
-        foreach (SubPlayer s in subPlayers)
-            s.animator.SetBool("isWalking", isWalking);
+        for (int i = 0; i < subPlayers.Count; i++)
+            subPlayers[i].animator.SetBool("isWalking", isWalking);
     }
 
     /*
