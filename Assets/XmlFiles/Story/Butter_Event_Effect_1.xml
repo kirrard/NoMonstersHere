@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DialogEffectRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Dialog Id="0">
+		<Bg Src="butter" Mode="FadeIn"/>
+		<Sfx Src="None" Loop="Off"/>
+		<CharacterList/>
+	</Dialog>
+	<Dialog Id="1">
+		<Bg Src="butter" Mode="None"/>
+		<Sfx Src="None" Loop="Off"/>
+		<CharacterList>
+			<Character Name="지아" Sprite="Jia_Standing_Normal" Pos="C" Telling="true"/>
+		</CharacterList>
+	</Dialog>
+	<Dialog Id="2">
+		<Bg Src="butter" Mode="FadeOut"/>
+		<Sfx Src="None" Loop="Off"/>
+		<CharacterList>
+			<Character Name="지아" Sprite="Jia_Standing_Normal" Pos="C" Telling="true"/>
+		</CharacterList>
+	</Dialog>
+	<Dialog Id="3">
+		<Bg Src="None" Mode="None"/>
+		<Sfx Src="None" Loop="Off"/>
+		<CharacterList>
+			<Character Name="지아" Sprite="Jia_Standing_Normal" Pos="C" Telling="false"/>
+		</CharacterList>
+	</Dialog>
+	<Dialog Id="4">
+		<Bg Src="None" Mode="None"/>
+		<Sfx Src="None" Loop="Off"/>
+		<CharacterList>
+			<Character Name="지아" Sprite="Jia_Standing_Normal" Pos="C" Telling="true"/>
+		</CharacterList>
+	</Dialog>
+</DialogEffectRoot>

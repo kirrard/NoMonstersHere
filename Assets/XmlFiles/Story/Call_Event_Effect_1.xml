@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<MiniDialogEffectRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Dialog Id="0">
+		<Sfx Src="Samsung_Tune" Loop="Off"/>
+		<Portrait>None</Portrait>
+        <Pos>Up</Pos>
+	</Dialog>
+    <Dialog Id="1">
+		<Sfx Src="None" Loop="Off"/>
+		<Portrait>Um</Portrait>
+        <Pos>Up</Pos>
+	</Dialog>
+    <Dialog Id="2">
+		<Sfx Src="None" Loop="Off"/>
+		<Portrait>Jia_Portrait_Normal</Portrait>
+        <Pos>Up</Pos>
+	</Dialog>
+    <Dialog Id="3">
+		<Sfx Src="None" Loop="Off"/>
+		<Portrait>Um</Portrait>
+        <Pos>Up</Pos>
+	</Dialog>
+    <Dialog Id="4">
+		<Sfx Src="Call_end" Loop="Off"/>
+		<Portrait>None</Portrait>
+        <Pos>Up</Pos>
+	</Dialog>
+    <Dialog Id="5">
+		<Sfx Src="None" Loop="Off"/>
+		<Portrait>Jia_Portrait_Normal</Portrait>
+        <Pos>Up</Pos>
+	</Dialog>
+    <Dialog Id="6">
+		<Sfx Src="None" Loop="Off"/>
+		<Portrait>Minji_Portrait_Normal</Portrait>
+        <Pos>Up</Pos>
+	</Dialog>
+</MiniDialogEffectRoot>

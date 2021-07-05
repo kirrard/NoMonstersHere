@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<MiniDialogRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Dialog Id="0">
+		<Content>(전화 벨소리)</Content>
+	</Dialog>
+	<Dialog Id="1">
+		<Content>여보세요? 거기 동탄 롯데리아인가요?</Content>
+	</Dialog>
+	<Dialog Id="2">
+		<Content>(...?) 전화 잘못 거셨어요.</Content>
+	</Dialog>
+	<Dialog Id="3">
+		<Content>엄...</Content>
+	</Dialog>
+	<Dialog Id="4">
+		<Content>(통화 종료음)</Content>
+	</Dialog>
+	<Dialog Id="5">
+		<Content>뭐야? 에이씨, 미안하다고는 하고 끊던가.</Content>
+	</Dialog>
+	<Dialog Id="6">
+		<Content>그러게. 이상한 사람이네...</Content>
+	</Dialog>
+</MiniDialogRoot>

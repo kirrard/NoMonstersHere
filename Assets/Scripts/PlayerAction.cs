@@ -124,6 +124,16 @@ public class PlayerAction : MonoBehaviour
             subPlayers[i].animator.SetBool("isWalking", isWalking);
     }
 
+    public void SetCanMove(bool condition)
+    {
+        canMove = condition;
+    }
+
+    public void SetVelocity(Vector2 vector)
+    {
+        rigid.velocity = vector;
+    }
+
     /*
     bool IsCollided()
     {

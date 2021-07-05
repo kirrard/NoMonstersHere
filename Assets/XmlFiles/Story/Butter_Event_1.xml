@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DialogRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Dialog Id="0">
+		<Teller/>
+		<Content>지아는 갑자기 버터를 바른 빵이 먹고 싶어졌다.</Content>
+	</Dialog>
+    <Dialog Id="1">
+		<Teller>지아</Teller>
+		<Content>음...</Content>
+	</Dialog>
+    <Dialog Id="2">
+		<Teller>지아</Teller>
+		<Content>하아... 돈 아껴야지... 참자...</Content>
+	</Dialog>
+    <Dialog Id="3">
+		<Teller/>
+		<Content>지아는 살짝 우울해졌다.</Content>
+	</Dialog>
+    <Dialog Id="4">
+		<Teller>지아</Teller>
+		<Content>흑... 빵 먹고싶어...</Content>
+	</Dialog>
+</DialogRoot>

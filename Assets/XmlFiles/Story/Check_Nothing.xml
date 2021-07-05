@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<Root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<MiniDialogRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<Dialog Id="0">
 		<Content>아무 이상 없음.</Content>
 	</Dialog>
-</Root>
+</MiniDialogRoot>

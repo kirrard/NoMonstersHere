@@ -8,7 +8,7 @@ public class ResourcesCache
 
     public static void Load(string folder)
     {
-        Object[] temp = Resources.LoadAll("Images/" + folder);
+        Object[] temp = Resources.LoadAll(folder);
         
         for(int i = 0; i<temp.Length; i++)
         {

@@ -4,29 +4,17 @@ using System.IO;
 using System.Xml.Serialization;
 using UnityEngine;
 
-public class XmlParser
+public class XmlParser<T>
 {
-    public static DialogRoot DeserializeDialog(TextAsset dialogFile)
+    public static T DeserializeXml(TextAsset dialogFile)
     {
-        DialogRoot dialog;
+        T dialog;
 
         using (StringReader stringReader = new StringReader(dialogFile.text))
         {
-            dialog = (DialogRoot)new XmlSerializer(typeof(DialogRoot)).Deserialize(stringReader);
+            dialog = (T)new XmlSerializer(typeof(T)).Deserialize(stringReader);
         }
 
         return dialog;
-    }
-
-    public static DialogEffectRoot DeserializeDialogEffect(TextAsset dialogFile)
-    {
-        DialogEffectRoot dialogEffect;
-
-        using (StringReader stringReader = new StringReader(dialogFile.text))
-        {
-            dialogEffect = (DialogEffectRoot)new XmlSerializer(typeof(DialogEffectRoot)).Deserialize(stringReader);
-        }
-
-        return dialogEffect;
     }
 }

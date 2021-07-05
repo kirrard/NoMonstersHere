@@ -7,4 +7,7 @@ public class BackGround
 {
     [XmlAttribute("Src")]
     public string src;
+
+    [XmlAttribute("Mode")]
+    public BgMode mode;
 }

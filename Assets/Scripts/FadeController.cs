@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class FadeController : MonoBehaviour
 {
@@ -16,23 +17,12 @@ public class FadeController : MonoBehaviour
     }
     #endregion
 
-    public GameObject root;
     public SpriteRenderer blackImg;
     public SpriteRenderer whiteImg;
 
-    public void FadeIn(float fadeTime)
-    {
-        StartCoroutine(FadeInCoroutine(fadeTime));
-    }
-
-    public void FadeOut(float fadeTime)
-    {
-        StartCoroutine(FadeOutCoroutine(fadeTime));
-    }
-
     public IEnumerator FadeInCoroutine(float fadeTime)
     {
-        root.SetActive(true);
+        blackImg.gameObject.SetActive(true);
         Color color = blackImg.color;
 
         while (color.a >= 0)
@@ -43,12 +33,12 @@ public class FadeController : MonoBehaviour
             yield return null;
         }
 
-        root.SetActive(false);
+        blackImg.gameObject.SetActive(false);
     }
 
     public IEnumerator FadeOutCoroutine(float fadeTime)
     {
-        root.SetActive(true);
+        blackImg.gameObject.SetActive(true);
         Color color = blackImg.color;
 
         while (color.a <= 1)
@@ -59,6 +49,32 @@ public class FadeController : MonoBehaviour
             yield return null;
         }
 
-        root.SetActive(false);
+        blackImg.gameObject.SetActive(false);
+    }
+
+    public IEnumerator FadeOutCoroutine(float fadeTime, Image image)
+    {
+        Color color = image.color;
+
+        while (color.a >= 0)
+        {
+            color.a -= Time.deltaTime / fadeTime;
+            image.color = color;
+
+            yield return null;
+        }
+    }
+
+    public IEnumerator FadeInCoroutine(float fadeTime, Image image)
+    {
+        Color color = image.color;
+
+        while (color.a <= 1)
+        {
+            color.a += Time.deltaTime / fadeTime;
+            image.color = color;
+
+            yield return null;
+        }
     }
 }

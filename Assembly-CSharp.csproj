@@ -63,6 +63,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\AudioController.cs" />
     <Compile Include="Assets\Scripts\CameraController.cs" />
     <Compile Include="Assets\Scripts\FadeController.cs" />
     <Compile Include="Assets\Scripts\GameManager.cs" />
@@ -71,9 +72,11 @@
     <Compile Include="Assets\Scripts\MapController.cs" />
     <Compile Include="Assets\Scripts\PlayerAction.cs" />
     <Compile Include="Assets\Scripts\ResourcesCache.cs" />
+    <Compile Include="Assets\Scripts\Story\BgMode.cs" />
     <Compile Include="Assets\Scripts\Story\CharacterPos.cs" />
     <Compile Include="Assets\Scripts\Story\DialogController.cs" />
     <Compile Include="Assets\Scripts\Story\DialogPoint.cs" />
+    <Compile Include="Assets\Scripts\Story\MiniDlgPanelPos.cs" />
     <Compile Include="Assets\Scripts\Story\SfxLoop.cs" />
     <Compile Include="Assets\Scripts\SubPlayer.cs" />
     <Compile Include="Assets\Scripts\XML\BackGround.cs" />
@@ -82,6 +85,11 @@
     <Compile Include="Assets\Scripts\XML\DialogEffect.cs" />
     <Compile Include="Assets\Scripts\XML\DialogEffectRoot.cs" />
     <Compile Include="Assets\Scripts\XML\DialogRoot.cs" />
+    <Compile Include="Assets\Scripts\XML\IXmlRoot.cs" />
+    <Compile Include="Assets\Scripts\XML\MiniDialog.cs" />
+    <Compile Include="Assets\Scripts\XML\MiniDialogEffect.cs" />
+    <Compile Include="Assets\Scripts\XML\MiniDialogEffectRoot.cs" />
+    <Compile Include="Assets\Scripts\XML\MiniDialogRoot.cs" />
     <Compile Include="Assets\Scripts\XML\Sfx.cs" />
     <Compile Include="Assets\Scripts\XML\XmlParser.cs" />
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMPro.cginc" />
@@ -90,7 +98,9 @@
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap.shader" />
     <None Include="Assets\Fonts\2MEc-A80oo7FuudZjIrdHFwAQ2Q.txt" />
     <None Include="Assets\XmlFiles\Story\Trashcan_Event_Effect_1.xml" />
+    <None Include="Assets\XmlFiles\Story\Butter_Event_1.xml" />
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface-Mobile.shader" />
+    <None Include="Assets\XmlFiles\Story\Call_Event_1.xml" />
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface.shader" />
     <None Include="Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt" />
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap-Custom-Atlas.shader" />
@@ -99,6 +109,7 @@
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMPro_Properties.cginc" />
     <None Include="Assets\XmlFiles\Story\Trashcan_Event_1.xml" />
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMPro_Surface.cginc" />
+    <None Include="Assets\XmlFiles\Story\Call_Event_Effect_1.xml" />
     <None Include="Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt" />
     <None Include="Assets\XmlFiles\Story\Check_Nothing_Effect.xml" />
     <None Include="Assets\XmlFiles\Story\Check_Nothing.xml" />
@@ -106,6 +117,7 @@
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile Masking.shader" />
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF Overlay.shader" />
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap-Mobile.shader" />
+    <None Include="Assets\XmlFiles\Story\Butter_Event_Effect_1.xml" />
     <None Include="Assets\TextMesh Pro\Fonts\LiberationSans - OFL.txt" />
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile.shader" />
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_Sprite.shader" />
